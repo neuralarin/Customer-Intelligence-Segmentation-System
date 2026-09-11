@@ -2,7 +2,7 @@
 
 ## 🛍️ Business Domain
 
-Marketing
+E-Commerce & Online Retail
 
 ----
 
